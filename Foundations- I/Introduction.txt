@@ -1,0 +1,12 @@
+What you will learn:
+Real-life roles and responsibilities of a junior data analyst
+How businesses transform data into actionable insights
+Spreadsheet basics
+Database and query basics
+Data visualization basics
+Skill sets you will build:
+Using data in everyday life
+Thinking analytically
+Applying tools from the data analytics toolkit
+Showing trends and patterns with data visualizations
+Ensuring your data analysis is fair

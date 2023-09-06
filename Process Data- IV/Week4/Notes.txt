@@ -1,0 +1,57 @@
+Correct the most common problems
+
+Make sure you identified the most common problems and corrected them, including:
+
+Sources of errors: Did you use the right tools and functions to find the source of the errors in your dataset?
+
+Null data: Did you search for NULLs using conditional formatting and filters?
+
+Misspelled words: Did you locate all misspellings?
+
+Mistyped numbers: Did you double-check that your numeric data has been entered correctly?
+
+Extra spaces and characters: Did you remove any extra spaces or characters using the TRIM function?
+
+Duplicates: Did you remove duplicates in spreadsheets using the Remove Duplicates function or DISTINCT in SQL?
+
+Mismatched data types: Did you check that numeric, date, and string data are typecast correctly?
+
+Messy (inconsistent) strings: Did you make sure that all of your strings are consistent and meaningful?
+
+Messy (inconsistent) date formats: Did you format the dates consistently throughout your dataset?
+
+Misleading variable labels (columns): Did you name your columns meaningfully?
+
+Truncated data: Did you check for truncated or missing data that needs correction?
+
+Business Logic: Did you check that the data makes sense given your knowledge of the business?
+-----------------------------------------------------------------------------------------------
+Changelog
+Typically, a changelog records this type of information:  
+
+Data, file, formula, query, or any other component that changed
+
+Description of what changed
+
+Date of the change
+
+Person who made the change
+
+Person who approved the change 
+
+Version number 
+
+Reason for the change 
+
+-----------------------------------------------------------------------------------------------
+
+Best practices for changelogs 
+
+A changelog for a personal project may take any form desired. However, in a professional setting and while collaborating with others, readability is important. These guiding principles help to make a changelog accessible to others: Changelogs are for humans, not machines, so write legibly. Every version should have its own entry. Each change should have its own line. Group the same types of changes. For example, Fixed should be grouped separately from Added. Versions should be ordered chronologically starting with the latest. The release date of each version should be noted. All the changes for each category should be grouped together. Types of changes usually fall into one of the following categories: 
+
+Added: new features introduced 
+Changed: changes in existing functionality Deprecated: features about to be removed
+ Removed: features that have been removed Fixed: bug fixes
+ Security: lowering vulnerabilities
+
+-----------------------------------------------------------------------------------------------
